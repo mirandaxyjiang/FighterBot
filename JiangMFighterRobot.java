@@ -3,12 +3,6 @@ package robotWar_Summative;
 import java.awt.*;
 import becker.robots.*;
 
-/**
- * The Ultimate Fighter Bot tracks down other players using the location, health, and health lost to the opponents through an extended OppData. It uses insertion sort to sort through the data to find its target on their turn.
- * @author Miranda
- * @version Jan. 24, 2022
- */
-
 public class JiangMFighterRobot extends FighterRobot{
 
 	private static final int ATTACK = 5;
