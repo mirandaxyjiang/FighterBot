@@ -1,11 +1,5 @@
 package robotWar_Summative;
 
-/**
- * Extends OppData to contain more information about its opponents (the statistics of the amount of health lost between players)
- * @author Miranda
- * @version Jan. 24, 2022
- */
-
 public class JiangMOppData extends OppData{
 
 	private int healthStats;
